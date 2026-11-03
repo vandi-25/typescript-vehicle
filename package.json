@@ -1,0 +1,16 @@
+{
+  "name": "typescript-vehicle",
+  "version": "1.0.0",
+  "description": "TypeScript exercise: Vehicle interface and Car class",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
